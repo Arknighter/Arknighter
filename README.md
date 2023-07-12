@@ -1,4 +1,12 @@
-### Hi there 👋
+
+### :laughing: Hi I am Arknighter
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arknighter&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arknighter&layout=compact&theme=tokyonight)
+
+### Visitor: ![Visitor Count](https://profile-counter.glitch.me/Arknighter/count.svg)
+
+![Arknighter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arknighter&theme=merko)
+
 
 <!--
 **Arknighter/Arknighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
